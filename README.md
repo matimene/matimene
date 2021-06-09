@@ -7,13 +7,13 @@ I'm 24 years old, passionate self-taught front-end developer from Spain. Current
   <tr>
      <td align="center" width="96">
       <a href="">
-        <img src="./img/html5.png" width="48" height="48" alt="TypeScript" />
+        <img src="./img/html5.png" width="48" height="48" alt="Html5" />
       </a>
       <br>HTML5
     </td>
        <td align="center" width="96">
       <a href="">
-        <img src="./img/css3.png" width="48" height="48" alt="TypeScript" />
+        <img src="./img/css3.png" width="48" height="48" alt="Css3" />
       </a>
       <br>CSS3
     </td>
