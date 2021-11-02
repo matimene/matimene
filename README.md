@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Matias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-I'm 25 years old, passionate self-taught fullstack developer from Spain. Currently I'm working on learning to use React efficiently and expanding my developer skills (getting my hands dirty as much as I can).
+I'm a 25 years old passionate self-taught Fullstack Developer from Spain. Currently working on learning how to use my tools more efficiently (mostly React) and expanding my developer skills while getting my hands dirty as much as I can.
 
 ## Favorite Tech
 <table>
